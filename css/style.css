@@ -1,0 +1,49 @@
+body {
+background: white;
+
+}
+
+header {
+
+    background: black;
+}
+
+nav {
+
+    background: salmon;   
+    
+}
+
+a:link{
+    color:black;
+}
+
+a:visited{
+    color:black;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: salmon;
+  }
+
+  ul.b {
+    list-style-type: none;
+  }
+
+  footer {
+background-color: gray;
+
+  }
